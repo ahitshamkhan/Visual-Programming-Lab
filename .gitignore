@@ -1,0 +1,14 @@
+# Visual Studio - minimal
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+# Build outputs
+*.exe
+*.dll
+*.pdb
+# Rider/IDE
+.idea/
